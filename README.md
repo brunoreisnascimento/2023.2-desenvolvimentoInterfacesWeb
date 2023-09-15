@@ -1,5 +1,4 @@
-👋 Olá! Abaixo está um exemplo de README.md para o repositório do GitHub que você pode usar para disponibilizar os códigos desenvolvidos na disciplina de INF0052 - Desenvolvimento de Interfaces WEB da FANESE (Faculdade de Negócios de Sergipe):
-
+👋
 # Desenvolvimento de Interfaces WEB - INF0052
 Bem-vindo ao repositório da disciplina de Desenvolvimento de Interfaces WEB!
 
