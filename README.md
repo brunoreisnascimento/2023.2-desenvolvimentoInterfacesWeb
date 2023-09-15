@@ -14,14 +14,6 @@ O repositório está organizado da seguinte forma:
 
 - **/projetos**: Aqui estão os projetos maiores desenvolvidos durante o curso. Cada projeto possui sua própria pasta com o código-fonte, documentação e qualquer outro recurso necessário para executá-lo.
 
-## Como usar este repositório?
-Você pode clonar este repositório para sua máquina local usando o seguinte comando:
-
-```
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
-```
-
-Certifique-se de ter o Git instalado em sua máquina antes de executar o comando acima.
 
 ## Contribuindo
 Se você é aluno da disciplina e tem algum código legal para compartilhar, sinta-se à vontade para fazer um pull request! Será um prazer adicionar sua contribuição ao repositório.
