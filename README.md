@@ -1,6 +1,6 @@
 👋
 # Desenvolvimento de Interfaces WEB - INF0052
-Bem-vindo ao repositório da disciplina de Desenvolvimento de Interfaces WEB!
+Bem-vindo ao repositório da disciplina de Programação para dispositivos móveis!
 
 Este repositório contém os códigos-fonte desenvolvidos ao longo da disciplina INF0052 na FANESE. Aqui você encontrará exemplos, exercícios e projetos relacionados ao desenvolvimento de interfaces web.
 
