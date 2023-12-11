@@ -1,5 +1,5 @@
-👋
-# Desenvolvimento de Interfaces WEB - INF0052
+
+# Tópicos Avançados em Desenvolvimento WEB - 2023
 Bem-vindo ao repositório da disciplina de Desenvolvimento de Interfaces WEB!
 
 Este repositório contém os códigos-fonte desenvolvidos ao longo da disciplina INF0052 na FANESE. Aqui você encontrará exemplos, exercícios e projetos relacionados ao desenvolvimento de interfaces web.
